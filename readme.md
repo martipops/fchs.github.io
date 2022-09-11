@@ -1,15 +1,15 @@
-### Random Movie Generator
+# Welcome to the GBA emulator
 
-## Personal Demo
-  - https://youtu.be/eAfC8x2jAac
+GBA Emulator is a free, online GBA emulator with 150+ Games to play!
 
-##### Functionality:
-- CORS Async JS fetches movie from my MongoDB RESTful API
-* Movie posters fetched from theMovieDB
-- User movie preferences include
-  * Title
-  - Minimum Rating
-  * Rating Range
-  - Release Year
-  * Decade
-* Minimalistic website design along with PSD
+# Github GBA Game Website
+
+https://browncha023.github.io/GBA/
+
+# EIC Version
+
+https://gba.endinternetcensorship.repl.co/
+
+<br>
+
+# ⚠️This Project Is No Longer Supported!⚠️
